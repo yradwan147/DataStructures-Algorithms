@@ -1,0 +1,5 @@
+For task 0, the complexity is approximately O(1) since the length of calls and texts is irrelevant.
+For task 1, the complexity is approximately O(n^2).
+For task 2, the complexity is approximately O(n). Because there's only one loop in calls.
+For task 3, the complexity is approximately O(nlog(n)). More specifically, worst case scenario would be O(3n)
+For task 4, the complexity is approximately O(nlog(n)). More specifically, worst case scenario would be O(4n)
